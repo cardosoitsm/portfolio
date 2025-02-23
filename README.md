@@ -1,8 +1,18 @@
-<p align="center"><img src="banner_github.jpg" alt="Header Banner" style="width: 50%; height: auto;"></p>
-<p style="font-size: 52;"><b>Rodrigo Cardoso de Oliveira</b></p><br>
-<font size="12"><b>About Me</b></font><br>
-<font size="10">I'm an IT professional with over than 20 years of experience in Information Technology, acting in services companies,telecom operators, and financial service. Specialized in IT service management, governance, cybersecurity, and team management with emphasis in cocreation value, and mensurable delivery results. My carrer is marked to inovators solutions implementations, and customer centricity acting in high complexity environments.</font><br><br>
-<font size="14"><b>Main achievements</b></font><br><br>
+<p align="center">
+   <img src="banner_github.jpg" alt="Header Banner" style="width: 50%; height: auto;">
+</p>
+<p style="font-size: 52;">
+   <b>Rodrigo Cardoso de Oliveira</b>
+</p><br>
+<font size="12">
+   <b>About Me</b>
+</font><br>
+<font size="10">
+   I'm an IT professional with over than 20 years of experience in Information Technology, acting in services companies,telecom operators, and financial service. Specialized in IT service management, governance, cybersecurity, and team management with emphasis in cocreation value, and mensurable delivery results. My carrer is marked to inovators solutions implementations, and customer centricity acting in high complexity environments.
+</font><br><br>
+<font size="14">
+   <b>Main achievements</b>
+</font><br><br>
 <font size="10" color="blue"><b>Restructured service delivery at Bradesco bank.</b></font><br>
 <b>Period:</b> 08/2023 - 11/2024<br>
 <b>Role:</b> <i>Service Delivery Manager at Security Ecosystem Knowledge (SEK)</i><br>
