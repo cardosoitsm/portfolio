@@ -1,4 +1,3 @@
-<p align="top"> <img src="banner_github.jpg"> </p>
 
 # Professional Portfolio
 
