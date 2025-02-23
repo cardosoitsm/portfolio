@@ -1,14 +1,13 @@
 <p aling="center"> <img src="banner_github.jpg" alt="Header Banner" style="width: 50%; height: auto;"> </p>
+<h1>Professional Portfolio</h1>
 
-# Professional Portfolio
-
-## About Me
+<h2> About Me</h2>
 Professional with over than 20 years of experience in Information Technology, acting in services companies,telecom operators, and financial service. Specialized in IT service management, governance, cybersecurity, and team management with emphasis in cocreation value, and mensurable delivery results. My carrer is marked to inovators solutions implementations, and customer centricity acting in high complexity environments.
 
-# Main achievements.
-### Restructured service delivery at Bradesco bank.
-**Period:** 08/2023 - 11/2024<br>
-**Role:** *Service Delivery Manager at Security Ecosystem Knowledge (SEK)*<br>
+<h2>Main achievements</h2>
+<h3><b>Restructured service delivery at Bradesco bank.</b></h3>
+<b>Period:</b> 08/2023 - 11/2024<br>
+<b>Role:</b> <i>Service Delivery Manager at Security Ecosystem Knowledge (SEK)</i><br>
 **Results:**<br>
 * Enhance the CSAT indicator redefining the backlog prioritization the activites which delivery value to the customer.<br>
 * Decrased the backlog activities by 20% estableshing the WIP control and taking control of the non-planned activities.<br>
