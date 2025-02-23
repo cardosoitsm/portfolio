@@ -1,4 +1,4 @@
-
+<p aling="center"> <img src="banner_github.jpg" alt="Header Banner" style="width: 50%; height: auto;"> </p>
 
 # Professional Portfolio
 
