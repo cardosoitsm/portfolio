@@ -12,7 +12,7 @@ Professional with over than 20 years of experience in Information Technology, ac
 * Decrased the backlog activities by 20% estableshing the WIP control and taking control of the non-planned activities.<br>
 *  Created the exception control (in the hardening context) to provide visibility to the customer regarding the request details, including who requested it, justification, date, impacted assets, SEK's technical evaluation, and SEK's recommendation. Additionally, established the approval workflow.
 
-### Implemented the governance in the support area at BASF.
+###Implemented the governance in the support area at BASF.
 **Period:** 03/2023 - 08/2023<br>
 **Role:** *Infrastructure Manager at Tech Mahindra.*<br>
 **Results:**<br>
