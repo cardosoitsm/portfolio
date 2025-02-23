@@ -31,3 +31,5 @@ Professional with over than 20 years of experience in Information Technology, ac
 * Planned and controlled CAPEX and OPEX, developing the AOP aligned with the company's strategic goals.
 * Supported sales and pre-sales teams in responding to RFPs, defining SOWs, and estimating effort.
 * Developed teams through Individual Development Plans (IDPs), 360° feedback, and coaching, fostering a high-performance environment.
+
+
