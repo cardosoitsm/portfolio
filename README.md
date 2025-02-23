@@ -1,4 +1,4 @@
-<p align="top"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fbr%2Fimages%2Fitsm-information-technology-service-management-concept-modules-vector-icons-set-infographic-background%2F525817715&psig=AOvVaw2-h0NrENfO1c9fs5ga_svV&ust=1740363710591000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiWo6KX3tiLAxUITLgEHeuTO_UQjRx6BAgAEBk"> </p>
+<p align="top"> <img src="banner_github.jpg"> </p>
 
 # Professional Portfolio
 
